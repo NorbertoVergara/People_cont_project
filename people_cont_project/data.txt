@@ -1,0 +1,5 @@
+Nombre del dispositivo: BQADFPNTBGSD234
+Total personas que entraron: 4
+total personas que salieron: 0
+mac: 00-50-56-C0-00-08
+"Latitud":"Longitud":"Fecha":"202-1-0""Hora":"0-5-1"% bateria: 100
